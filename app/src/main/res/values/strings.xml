@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="bienvenida">Hola Mundo</string>
+    <string name="portada">Play Juegos</string>
+    <string name="play">Play</string>
+    <string name="nPlayer">New Player</string>
+    <string name="preferences">Preferences</string>
+    <string name="about">About</string>
+</resources>
